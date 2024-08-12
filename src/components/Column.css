@@ -1,0 +1,28 @@
+/* Column.css */
+
+.column {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+    width: 24%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .column h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .task-list {
+    flex-grow: 1;
+    min-height: 150px;
+    padding: 10px 0;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  

@@ -1,0 +1,14 @@
+/* KanbanBoard.css */
+
+.kanban-board {
+    padding: 20px;
+    background-color: #f0f2f5;
+    min-height: 100vh;
+  }
+  
+  .kanban-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
